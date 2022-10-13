@@ -1,5 +1,8 @@
 # Frontend Mentor - Single price grid component
 
+## Follow this link: 
+https://shaileshp1802.github.io/single-price-grid-component-master/
+
 ![Design preview for the Single price grid component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
